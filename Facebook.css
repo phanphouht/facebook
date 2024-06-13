@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+}
+.container {
+    width:1280px ;
+    background-color: #F0F2F5;
+    height: 720px;
+}
+.facebook-text {
+    color: #1c1e21;
+    font-size: 24px;
+    line-height: 28px;
+    width: 370px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    padding: 0;
+    text-align: center;
+    direction: ltr;
+}
+#email {
+    border: 1px solid  #dddfe2;
+    color:#1d2129;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: inherit;
+    font-size: 17px;
+    border-radius: 6px;
+    padding: 14px 16px;
+    width: 330px;
+    vertical-align: middle;
+    background: #FFFFFF url(/rsrc.php/v3/yU/r/O7nelmd9XSI.png) repeat-x;
+}
+#password {
+    border: 1px solid  #dddfe2;
+    color:#1d2129;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: inherit;
+    font-size: 17px;
+    border-radius: 6px;
+    padding: 14px 16px;
+    width: 330px;
+    vertical-align: middle;
+    background: #FFFFFF url(/rsrc.php/v3/yU/r/O7nelmd9XSI.png) repeat-x;
+}
+#Login-button {
+    align-items: center;
+    padding: 0 16px;
+    width: 332px;
+    cursor:pointer;
+    display: inline-block;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: #0866ff;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    font-family: inherit;
+    color: #fff;
+    margin: 0;
+}
+#Forgot {
+    text-decoration-line: none;
+    text-align: center;
+}
+.div3  {
+    height: 348.83px;
+    width: 396px;
+    margin: 40px 0px 0px;
+    padding: 10px 0px 24px;
+    background-color: #FFFFFF;
+    border-radius: 6px;
+}
